@@ -18,7 +18,7 @@ ii.	Key (Confirmed, Death, Recovered, active)
 - The libEx01utils.c file will compile to a Shared Library, all the executable programs retrive data structures(an array with all countries, each country cell has all the corona stataistics for the relevant country) from this library.
 
 - Makefile : run 'make all' command in the terminal,
-the Makefile will complies each *.c  file to executable  *.out file, and each lib*.c file to lib*.so shared library
+the Makefile will complie each *.c  file to executable  *.out file, and each lib*.c file to lib*.so shared library
 
 screen shots of the output for each program:
 
