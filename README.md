@@ -18,12 +18,9 @@ ii.	Key (Confirmed, Death, Recovered, active)
 
 screen shots of the output for each program:
 
-_print_by_date.c
 ![print_by_date](https://user-images.githubusercontent.com/62330191/101274690-dacf8a80-37a8-11eb-8748-e0aa9833ff5f.PNG)
 
-_print_graph.c
 ![print_graph](https://user-images.githubusercontent.com/62330191/101274603-47965500-37a8-11eb-8b52-2fa2b7e39b61.png)
 
-_country_data_to_csv.c
 ![data_to_csv](https://user-images.githubusercontent.com/62330191/101274620-63016000-37a8-11eb-957b-a35405434557.png)
 
