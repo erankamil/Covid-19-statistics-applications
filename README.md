@@ -14,4 +14,4 @@ i.	country name
 ii.	Key (Confirmed, Death, Recovered, active)
 
 
-- The libEx01utils.c file its a Shared Library (complies to libEx01utils.so file), all the executable programs retrive data structures from this libray.
+- The libEx01utils.c file its a Shared Library (complies to libEx01utils.so file), all the executable programs retrive data structures(an array with all countries, each country cell has all the corona stataistics for the relevant country) from this library.
