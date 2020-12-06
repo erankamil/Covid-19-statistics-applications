@@ -15,7 +15,7 @@ ii.	Key (Confirmed, Death, Recovered, active)
 
 - The _country_data_to_csv.c file will compile to an executable program that creates an csv file and exports all the corona statistics of the given country to this csv file.
 
-- The libEx01utils.c file will compile to a Shared Library (complies to libEx01utils.so file), all the executable programs retrive data structures(an array with all countries, each country cell has all the corona stataistics for the relevant country) from this library.
+- The libEx01utils.c file will compile to a Shared Library, all the executable programs retrive data structures(an array with all countries, each country cell has all the corona stataistics for the relevant country) from this library.
 
 - Makefile : run 'make all' command in the terminal,
 the Makefile will complies each *.c  file to executable  *.out file, and each lib*.c file to lib*.so shared library
